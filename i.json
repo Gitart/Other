@@ -1,0 +1,10 @@
+[
+
+{"BUSSINES": "Описание",  "CURRENCY": "UAH",    "DATEORDER": "2015-03-28",   "DESCRIPTION": "віполнение",  "DISCOUNT": 23.02},
+{"BUSSINES": "новости",  "CURRENCY": "UAH",    "DATEORDER": "2015-03-28",   "DESCRIPTION": "Новостной портал",  "DISCOUNT": 23.02},
+{"BUSSINES": "простой",  "CURRENCY": "UAH",    "DATEORDER": "2015-03-28",   "DESCRIPTION": "Притмер реализации",  "DISCOUNT": 23.02},
+{"BUSSINES": "создать",  "CURRENCY": "UAH",    "DATEORDER": "2015-03-28",   "DESCRIPTION": "Пример",  "DISCOUNT": 23.02},
+{"BUSSINES": "создать",  "CURRENCY": "UAH",    "DATEORDER": "2015-03-28",   "DESCRIPTION": "Второй назначенній",  "DISCOUNT": 23.02},
+{"BUSSINES": "Обновление данных",  "CURRENCY": "UAH",    "DATEORDER": "2015-03-28",   "DESCRIPTION": "Обновление данных на сервере",  "DISCOUNT": 23.02, "TAG":"NN"}
+
+ ]
