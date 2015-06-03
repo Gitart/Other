@@ -3,5 +3,5 @@ Other
 
 Other information
 
-adads|asdadsasd|
-sadasds|233|
+|adads|asdadsasd|SasAS
+|sadasds|233|asas
