@@ -5,15 +5,17 @@ TEST VERSION
  
         http://curl.haxx.se
  
-SIMPLE USAGE
+## SIMPLE USAGE
  
-  Get the main page from Netscape's web-server:
+### Get the main page from Netscape's web-server:
+ ```
+ curl http://www.netscape.com/
+ ```
  
-        curl http://www.netscape.com/
- 
-  Get the README file the user's home directory at funet's ftp-server:
- 
+### Get the README file the user's home directory at funet's ftp-server:
+ ```
         curl ftp://ftp.funet.fi/README
+```        
  
   Get a web page from a server using port 8000:
  
